@@ -161,7 +161,7 @@ Science Robotics, TRO, IJRR, JFR, RSS, RAL, IROS, ICRA, ICCV, ECCV, ICML, CVPR, 
   - [10.3 Autonomous Driving](./topics/algorithm.md#ad)
 
 
-## 🏋️‍♂️ (5) Infrastruture - 软件基础设施篇
+## 🏋️‍♂️ (5) Infrastructure - 软件基础设施篇
 
 这一章关注的不是“具体某个模型”，而是**支撑具身智能研究与系统落地的软件基础设施（Infrastructure）**。仿真器决定你能构建怎样的世界，基准集决定你如何比较方法优劣，数据集决定模型最终学到什么样的行为分布。它们共同构成了具身智能中**最容易被忽视、但最影响上限与复现性的部分**。
 
